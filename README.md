@@ -3,4 +3,4 @@ README
 console.log("Hello");
 
 //変更後
-console.log("hello,wokd!");
+console.log("hello,world!");
